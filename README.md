@@ -1,2 +1,2 @@
 # bash-scripting
-repo to store scripts I make while learning bash scripting
+scripts I made while learning bash
